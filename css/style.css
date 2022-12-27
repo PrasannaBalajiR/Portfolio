@@ -101,6 +101,13 @@ h5 span {
     font-family: "Helvetica Neue";
 }
 
+.pra li {
+    color: #fcfc;
+    font-size: 23px;
+    font-family: "Helvetica Neue" serif;
+    list-style: none;
+}
+
 .about {
     width: 100%;
     padding: 100px 0px;
